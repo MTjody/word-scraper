@@ -1,0 +1,22 @@
+{
+  "name": "word-scraper",
+  "version": "1.0.0",
+  "description": "Just a scraper looking for words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTjody/word-scraper.git"
+  },
+  "author": "MTJody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MTjody/word-scraper/issues"
+  },
+  "homepage": "https://github.com/MTjody/word-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
